@@ -1,10 +1,9 @@
-#RBIF100 Week 8 Assignment
 #Author: Darya Veprinski
 
 The goal of this script is to extract any gene ID from Ensembl using RESTful API, and then generate homologies.
 
 ###########################################################################################
-Execute the script inside of the week8 folder by typing the following command:
+Execute the script inside by typing the following command:
 
 python3 gene_homologs.py MC1R
 
