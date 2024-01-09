@@ -1,7 +1,6 @@
-#RBIF100 Week 6 Assignment
 #Author: Darya Veprinski
 
-The goal of this script is to analyze mold data and identify the mutations that resulted in the different color molds.
+The goal of this script is to analyze mold data and identify the mutations that resulted in different color molds.
 
 pipeline.py is divided into 5 steps:
 1. Demultiplexing the pooled fastq and trimming the end of the lower quality reads.
@@ -11,7 +10,7 @@ pipeline.py is divided into 5 steps:
 5. Generating a report.
 
 ###########################################################################################
-Execute the script inside of the week6 folder by typing the following command:
+Execute the script by typing the following command:
 
 python3 pipeline.py --fastq hawkins_pooled_sequences.fastq
 
@@ -21,7 +20,7 @@ Please allow a few seconds for the script to iterate through all the files. When
 "All done! Please review the following contents: directory 'fastqs', directory 'sorted_bam', and file 'report.txt'."
 
 
-The necessary files for the script are located in week6 under the names:
+The necessary files for the script are:
 dgorgon_reference.fa
 harrington_clinical_data.txt
 hawkins_pooled_sequences.fastq
