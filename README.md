@@ -1,19 +1,26 @@
 # Bioinformatics_Portfolio
-A collection of projects I've done while studying bioinformatics.
+Hi there! Welcome to my page where I share projects I've done while studying for my bioinformatics Master's. This page is a constant work in progress as I'm juggling classes, work, and probably too many hobbies. 
+I'm learning how to navigate GitHub on my own, so I'm hoping my page showcases my experience clearly, and maybe one day, in an aesthetically pleasing manner as well (we're not there just yet). Thank you for stopping by!
 
-Languages learned so far:
-1. R
-2. Python
-3. Bash
+## A summary of my work
 
-Concepts practiced:
+Gained experience with:
+- R
+- Python
+- Bash
+- cloud computing (AWS)
+
+Lab data familiar with:
+- RNSeq
+- ChIP-seq
+
+Statistical analysis practiced:
 - ANOVA (one way and two way)
 - t-tests
 - Linear regression
 - Resampling procedures (cross-validation, bootstrap, permutations)
 - Survival analysis
 - PCA and hierarchical clustering
-- RESTful APIs
 - Visual data analysis (both in R and Python)
 
 Classes taken:
