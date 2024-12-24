@@ -26,6 +26,9 @@ Statistical analysis practiced:
 Classes taken:
 1. Biomedical Statistics with R
 2. Bioinformatics Scripting and Databases with Python
-3. Biological Sequence Analysis
-4. Structural Bioinformatics
-5. Molecular Biology, Genetics, and Disease
+3. Drug Discovery and Development
+4. Mathematical Modeling
+5. Molecular Profiling and Biomarker Discovery
+6. Biological Sequence Analysis
+7. Structural Bioinformatics
+8. Molecular Biology, Genetics, and Disease
