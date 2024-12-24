@@ -1,6 +1,6 @@
 # Bioinformatics_Portfolio
 Hi there! Welcome to my page where I share projects I've done while studying for my bioinformatics Master's. This page is a constant work in progress as I'm juggling classes, work, and probably too many hobbies. 
-I'm learning how to navigate GitHub on my own, so I'm hoping my page showcases my experience clearly, and maybe one day, in an aesthetically pleasing manner as well (we're not there just yet). Thank you for stopping by!
+I'm learning how to navigate GitHub on my own, so I'm hoping my page showcases my experience clearly, and maybe one day, in an aesthetically pleasing manner as well. Thank you for stopping by!
 
 ## A summary of my work
 
